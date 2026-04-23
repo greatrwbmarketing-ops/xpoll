@@ -1,8 +1,8 @@
 # XPoll — Submission to Conviction Markets RFP
 
 **Submitted by:** XPoll
-**Contact:** [your email / Twitter / Telegram here]
-**Website / Demo:** [link to demo video or live product here]
+**Contact:** stanton@xpoll.io
+**Website / Demo:** xpoll.io
 
 ---
 
@@ -63,7 +63,3 @@ XPoll has a working system for capturing and monetizing human signal. The layer 
 This is also why we don't fully address Problem #6 yet: it's the next thing we're building, and where conviction + capital + collaboration would move us fastest.
 
 ---
-
-## What's in this repo
-
-[Brief one-line description of what reviewers will find here — e.g. "Core XPoll smart contracts and campaign engine" or "Demo build of the soulbound data profile system."]
